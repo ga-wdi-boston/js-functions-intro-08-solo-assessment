@@ -38,7 +38,7 @@ describe('functions', function() {
     });
 
     it('inject(nums, \'-\')', function() {
-      expect(quiz.inject(nums, '-')).toBe(48);
+      expect(quiz.inject(nums, '-')).toBe(0);
     });
 
   });
