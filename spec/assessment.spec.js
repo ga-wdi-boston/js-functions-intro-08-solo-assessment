@@ -1,6 +1,6 @@
 'use strict';
 
-var quiz = require('../lib/quiz.js');
+var quiz = require('../lib/assessment.js');
 
 describe('functions', function() {
 
